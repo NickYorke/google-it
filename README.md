@@ -5,7 +5,7 @@ Creates on-the-fly linking with Google search results using either the text wrap
 Add either of the following to the `<head>` of the HTML document.
 
 #### Link to GitHub hosted JavaScript file
-`<script src="https://raw.githubusercontent.com/NickYorke/google-it/master/google-it.js"></script>`
+`<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/NickYorke/google-it/google-it.js"></script>`
 
 #### Copy the function directly into your HTML
  ```
