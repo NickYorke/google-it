@@ -12,7 +12,7 @@ Add either of the following to the `<head>` of the HTML document.
 <script type="text/javascript">
 function GoogleIt(e)
 	{
-	var searchURL = "http://www.google.com/search?hl=en&q=";
+	var searchURL = "https://www.google.com/search?q=";
 
 	if (e.nodeType == 1)
 		{
