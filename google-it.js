@@ -5,7 +5,8 @@ function GoogleIt(e)
     if (e.nodeType == 1)
     {
         var searchString = e.innerHTML;
-    } else
+    }
+    else
     {
         var searchString = e;
     }
